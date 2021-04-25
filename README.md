@@ -1,6 +1,6 @@
 # Intellect---An-interactive-game-to-enhance-learning-for-students
 
-CZ3003 - Intellect---An-interactive-game-to-enhance-learning-for-students
+CZ3003 - Intellect---An interactive game to enhance learning for students
 
 
 This project consists of the Intellect Game Application for the Students and a Web App for the
